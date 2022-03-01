@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "ch01-01-hello-world",
+    "ch02-01-read-number",
+    "ch02-02-guessing-game",
+    "ch03-01-variables",
+    "ch03-02-data-types",
+]
