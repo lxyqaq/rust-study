@@ -30,4 +30,15 @@ fn main() {
 
     println!("{}", cry);
 
+    // Tuple type
+    let tup: (i32, f64, u8) = (500, 2.3, 1);
+
+    println!("{}", tup.0);
+    println!("{}", tup.1);
+    println!("{}", tup.2);
+
+    //Array type
+    let array: [i32; 5] = [1, 3, 9, 11, 193];
+    println!("{}", array[0]);
+
 }
