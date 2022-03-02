@@ -6,5 +6,6 @@ members = [
     "ch02-02-guessing-game",
     "ch03-01-variables",
     "ch03-02-data-types",
-    "ch03-02-functions"
+    "ch03-02-functions",
+    "ch03-03-control-flow",
 ]
