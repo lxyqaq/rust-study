@@ -8,4 +8,5 @@ members = [
     "ch03-02-data-types",
     "ch03-02-functions",
     "ch03-03-control-flow",
+    "ch04-01-ownership",
 ]
