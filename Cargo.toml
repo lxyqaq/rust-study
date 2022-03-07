@@ -15,4 +15,5 @@ members = [
     "ch05-02-structs-example",
     "ch06-01-enum",
     "ch06-02-enum-match",
+    "ch06-03-if-let",
 ]
