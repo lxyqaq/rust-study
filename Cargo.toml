@@ -13,4 +13,5 @@ members = [
     "ch04-03-slice",
     "ch05-01-structs",
     "ch05-02-structs-example",
+    "ch06-01-enum",
 ]
