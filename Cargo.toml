@@ -9,4 +9,6 @@ members = [
     "ch03-02-functions",
     "ch03-03-control-flow",
     "ch04-01-ownership",
+    "ch04-02-references-borrowing",
+    "ch04-03-slice",
 ]
