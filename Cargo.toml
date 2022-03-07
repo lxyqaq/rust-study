@@ -11,4 +11,5 @@ members = [
     "ch04-01-ownership",
     "ch04-02-references-borrowing",
     "ch04-03-slice",
+    "ch05-01-structs",
 ]
